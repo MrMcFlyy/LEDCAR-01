@@ -32,7 +32,7 @@ class Dmx00Data {
     fun makeColorData(color: Color) =
         byteArrayOf(
             0x7B.toByte(),
-            0xFF.toByte(),
+            0x00.toByte(),
             0x07.toByte(),
             color.red.toByte(),
             color.green.toByte(),
