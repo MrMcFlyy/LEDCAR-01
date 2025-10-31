@@ -1,5 +1,4 @@
 import java.awt.Color
-import java.util.Calendar
 
 /*
 To keep things consistent, and hopefully easier to understand for those less familiar with Java/Kotlin all values
@@ -81,3 +80,4 @@ class Ble00Data {
             0xEF.toByte(),
         )
     }
+}
