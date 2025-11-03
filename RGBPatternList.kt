@@ -1,0 +1,27 @@
+class RGBPatternList {
+    val RGBpatternList = listOf(
+        "Tricolor Jump",
+        "Seven-Color Jump",
+        "Tricolor Gradient",
+        "Seven-Color Gradient",
+        "Red Gradient",
+        "Green Gradient",
+        "Blue Gradient",
+        "Yellow Gradient",
+        "Cyan Gradient",
+        "Purple Gradient",
+        "White Gradient",
+        "Red-Green Gradient",
+        "Red-Blue Gradient",
+        "Green-Blue Gradient",
+        "Seven-Color Flash",
+        "Red Flash",
+        "Green Flash",
+        "Blue Flash",
+        "Yellow Flash",
+        "Cyan Flash",
+        "Purple Flash",
+        "White Flash",
+        "Seven-Color Breathe",
+    )
+}
