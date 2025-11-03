@@ -1,5 +1,5 @@
-class PatternList {
-    val patternList = listOf(
+class DMXPatternList {
+    val DMXpatternList = listOf(
         "Off",
         "Forward Dreaming",
         "Backward Dreaming",
